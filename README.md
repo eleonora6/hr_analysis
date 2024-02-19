@@ -222,7 +222,8 @@ GROUP BY location;
 
 ```
 11)	What's the distribution of employees across different states?
-     Most employees are from Ohio (15996) and the least amount of employees are from Wisconsin (341).
+
+   	Most employees are from Ohio (15996) and the least amount of employees are from Wisconsin (341).
 ``` SQL
 SELECT
 location_state,
