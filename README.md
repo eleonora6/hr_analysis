@@ -1,10 +1,10 @@
-# HR Data Analysis in SQL Server and Power BI
+# HR Data Analysis in SQL Server Management Studio and Power BI
 
-This project delves into the realm of data analysis utilizing SQL and Power BI to reveal significant insights regarding human resources that can greatly enhance the company's performance.
+This project delves into the realm of data analysis utilizing SQL Server and Power BI to reveal significant insights regarding human resources that can greatly enhance the company's performance.
 The report feautures dashboards that offer crucial HR metrics like employee turnover, recruitment efficacy and performance evaluations, that would help HR professionals make informed decisions and strategic workforce planning.
 
 ## Data Cleaning & Analysis:
-SQL server 
+SQL Server Management Studio
 - Data loading & inspection
 - Handling missing values
 - Data cleaning and analysis
